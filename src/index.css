@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@media screen and (min-width:1048px){
+  .homeifhoneimg{
+    height: 100% !important;
+    width: 326px !important;
+  }
+  .PlayStation{
+
+  }
+}
+@media screen and (min-width:769px){
+  .homeifhoneimg{
+    height: 100% !important;
+    width: 298px !important;
+  }
+  .PlayStation{
+    
+  }
+}
+@media screen and (min-width:1400px){
+  .homeifhoneimg{
+    height: 91% !important;
+    width: 312px !important;
+  }
+  .PlayStation{
+    
+  }
+}
+@media screen and (max-width:432px){
+  .homeifhoneimg{
+    height: 100% !important;
+    width: 216px !important;
+  }
+  .PlayStation{
+    
+  }
+}
