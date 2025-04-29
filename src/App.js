@@ -7,7 +7,7 @@ import { Box } from '@mui/material';
 import Productspage from './Pages/Productspage';
 import ProductDetailspage from './Pages/ProductDetailspage';
 import ShoppingCart from './Pages/ShoppingCart';
-import About from './Pages/About';
+// import About from './Pages/About';
 
 function App() {
   return (
