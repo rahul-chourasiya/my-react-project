@@ -123,11 +123,11 @@ function Navbar({ toggleDrawer, isTabletOrMobile, navtext }) {
             gap:"30px",
             alignItems:"center"
         }}>
-          <Link to="/ShoppingCart" style={{ color: "black" }}>
+          {/* <Link to="/ShoppingCart" style={{ color: "black" }}>
             <Badge color="secondary" badgeContent={cardproductdata.length}>
               <ShoppingCartOutlinedIcon fontSize="inherit" sx={{marginBottom:'5px'}} />
             </Badge>
-          </Link>
+          </Link> */}
           <IconButton
             edge="start"
             color="inherit"
